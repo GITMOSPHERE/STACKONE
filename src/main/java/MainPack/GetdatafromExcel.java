@@ -15,7 +15,7 @@ public class GetdatafromExcel {
 public static String testing;
 	
 	 private static String s = "Sheet1";
-	 private static String s1 = "C:\\Users\\c24088773\\Desktop\\Selenium tests\\testingstack\\src\\main\\java\\MainPack\\jenkins_data.xlsx";
+	 private static String s1 = "src/main/java/MainPack/jenkins_data.xlsx";
 	 private static Map<String, String> map = new HashMap<String,String>();
 
 	 //public String get(String testcasename,String columnname) throws IOException {
