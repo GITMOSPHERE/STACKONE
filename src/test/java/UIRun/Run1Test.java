@@ -3,7 +3,7 @@ package UIRun;
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
-import co.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;
+import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.TestNGCucumberRunner;
 
