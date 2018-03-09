@@ -19,11 +19,11 @@
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.eclipse.jetty.websocket/websocket-server -->
-<dependency>
+<!--<dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
     <artifactId>websocket-server</artifactId>
     <version>9.2.12.v20150709</version>
-</dependency>
+</dependency>>-->
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 		<dependency>
@@ -103,7 +103,7 @@
 </dependency><!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
 
 	</dependencies>
-	<repositories>
+	<!--<repositories>
 	    <repository>
 	        <id>central</id>
 	        <url>http://repo1.maven.org/maven2</url>
@@ -118,7 +118,7 @@
 			<id>nexus</id>
 			<url>http://nexus.standardbank.co.za:8090/nexus/content/groups/public/</url>			
 		</repository>
-	</repositories>
+	</repositories>-->
 	
 
   <build>
